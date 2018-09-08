@@ -8,10 +8,6 @@ const Footer = ({page}) => {
     )
 }
 
-const style = {
-    margin:"auto"
-}
-
 const footer = {
     bottom:'0',
     opacity:0.5,
