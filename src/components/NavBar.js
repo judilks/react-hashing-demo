@@ -8,7 +8,7 @@ const NavBar = ({page}) => {
         <AppBar position="static">
             <Toolbar>
                 <Typography variant="title" color="inherit" style={style}>
-                    {page}
+                    Hashing Password
                 </Typography>
             </Toolbar>
         </AppBar>

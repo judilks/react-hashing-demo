@@ -36,7 +36,7 @@ class Login extends Component {
 
     render() {
         return (
-        <div>
+        <div style={style}>
             <TextField
                 id="email"
                 label="Email"
@@ -65,6 +65,6 @@ class Login extends Component {
     }
 }
 const style = {
- margin: 15,
+ margin: 20,
 };
 export default Login;

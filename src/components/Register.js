@@ -61,6 +61,7 @@ class Register extends Component {
             <TextField
                 id="password"
                 label="Password"
+                type="password"
                 style={style}
                 value={this.state.password}
                 onChange={(event) => this.setState({password:event.target.value})}
