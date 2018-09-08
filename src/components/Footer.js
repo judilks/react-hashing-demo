@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = ({page}) => {
     return(
         <div style={footer}>
-            &copy; Justin Dilks, Kohle Helle
+            &copy; Justin Dilks
         </div>
     )
 }
